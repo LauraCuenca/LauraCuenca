@@ -1,7 +1,7 @@
 ### ✨ようこそみなさん ✨
 
-<img src="https://ar.pinterest.com/pin/27162403992537387/" alt="sakura" width="300px">
-  
+ ![sakura](https://user-images.githubusercontent.com/80906205/232525135-221335fe-396c-4a61-8e22-e775ef0e5285.gif)
+
 
 #### Estudiante de Lic en Sistemas, APU. UNLP
 ##### Intentando ser mas activa
