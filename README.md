@@ -1,7 +1,11 @@
 
 <p align="center" style="font-size: 64px;"><strong>✨ようこそみなさん ✨</strong></p>
+<div align="center">
+  
+![sakura](https://user-images.githubusercontent.com/80906205/232527695-62be5da7-3b0c-4681-ab00-c43a63e76e69.gif){ width=400 }
+  
+</div>
 
-![sakura](https://user-images.githubusercontent.com/80906205/232527695-62be5da7-3b0c-4681-ab00-c43a63e76e69.gif)
 
 #### Estudiante de Lic en Sistemas, APU. UNLP
 ##### Intentando ser mas activa
