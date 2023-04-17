@@ -1,15 +1,8 @@
 ### ✨ようこそみなさん ✨
 
-
-<p align="center">
- ![sakura](https://user-images.githubusercontent.com/80906205/232525135-221335fe-396c-4a61-8e22-e775ef0e5285.gif) 
-</p>
-
 <p align="center">
   <img src="[sakura](https://user-images.githubusercontent.com/80906205/232525135-221335fe-396c-4a61-8e22-e775ef0e5285.gif)" alt="animated" />
 </p>
-
-
 
 #### Estudiante de Lic en Sistemas, APU. UNLP
 ##### Intentando ser mas activa
