@@ -1,10 +1,10 @@
 ### ✨ようこそみなさん ✨
 
 
-####Estudiante de Lic en Sistemas, APU. UNLP
+#### Estudiante de Lic en Sistemas, APU. UNLP
 
-####[Linkedin] (https://www.linkedin.com/in/laura-cuenca-/)
-####[Ig] (https://www.instagram.com/laucuencaa/)
+#### [Linkedin] (https://www.linkedin.com/in/laura-cuenca-/)
+#### [Ig] (https://www.instagram.com/laucuencaa/)
 <!--
 **LauraCuenca/LauraCuenca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
