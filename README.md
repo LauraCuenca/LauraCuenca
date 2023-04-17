@@ -1,7 +1,7 @@
 ### ✨ようこそみなさん ✨
 
 
-<p align="center">![sakura](https://user-images.githubusercontent.com/80906205/232527252-785808dd-4796-42f4-8636-50a25749164f.gif)
+<p align="center">
 
   <img width="460" height="300" src="![sakura](https://user-images.githubusercontent.com/80906205/232527252-785808dd-4796-42f4-8636-50a25749164f.gif)" alt="animated">
 </p>
