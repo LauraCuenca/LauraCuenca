@@ -1,4 +1,6 @@
+<center>
 ### ✨ようこそみなさん ✨
+</center>
 
 ![sakura](https://user-images.githubusercontent.com/80906205/232527695-62be5da7-3b0c-4681-ab00-c43a63e76e69.gif)
 
