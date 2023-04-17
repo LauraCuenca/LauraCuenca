@@ -1,8 +1,8 @@
 ### ✨ようこそみなさん ✨
 
-<p align="center">
-    <img  sakura.gif" width="180" height="180">
-</p>
+
+  
+
 #### Estudiante de Lic en Sistemas, APU. UNLP
 ##### Intentando ser mas activa
 
