@@ -11,7 +11,6 @@
 ##### Intentando ser mas activa, amante del color rosa y los gatos
 
 #### [Linkedin: Laura Cuenca](https://www.linkedin.com/in/laura-cuenca-/)
-#### [Instagram ✨](https://www.instagram.com/laucuencaa/)
 <!--
 **LauraCuenca/LauraCuenca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
