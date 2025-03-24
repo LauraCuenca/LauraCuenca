@@ -1,14 +1,18 @@
 
-<p align="center" style="font-size: 84px;"><strong>✨ Journey of a Code Lover ✨</strong></p>
+<p align="center" style="font-size: 84px;"><strong>✨Creciendo como Desarrolladora, Línea por Línea ✨</strong></p>
 <div align="center">
   
-![sakura](https://user-images.githubusercontent.com/80906205/232527695-62be5da7-3b0c-4681-ab00-c43a63e76e69.gif)
+![image](https://github.com/user-attachments/assets/778cfbed-64c9-437e-8407-8570958d4bc2)
+
+
   
 </div>
 
 
 #### Estudiante de Lic en Sistemas, APU. UNLP
 ##### Intentando ser mas activa, amante del color rosa y los gatos
+##### Tengo Stickers IT
+#### [Drive Stickers]([https://www.linkedin.com/in/laura-cuenca-/](https://drive.google.com/drive/folders/1nzrGfG1_9-k5Dp8QdMbfXcqo7_Uz2GV7))
 
 #### [Linkedin: Laura Cuenca](https://www.linkedin.com/in/laura-cuenca-/)
 <!--
