@@ -11,8 +11,8 @@
 
 #### Estudiante de Lic en Sistemas, APU. UNLP
 ##### Intentando ser mas activa, amante del color rosa y los gatos
-##### Tengo Stickers IT
-#### [Drive Stickers]([https://www.linkedin.com/in/laura-cuenca-/](https://drive.google.com/drive/folders/1nzrGfG1_9-k5Dp8QdMbfXcqo7_Uz2GV7))
+##### Tengo Stickers IT 
+#### [Drive Stickers](https://drive.google.com/drive/folders/1nzrGfG1_9-k5Dp8QdMbfXcqo7_Uz2GV7)
 
 #### [Linkedin: Laura Cuenca](https://www.linkedin.com/in/laura-cuenca-/)
 <!--
