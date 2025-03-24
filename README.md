@@ -3,7 +3,7 @@
 <p align="center" style="font-size: 70px;"><strong> Intentando ser mas activa, amante del color rosa, los gatos y el anime.</p>
 
 <div align="center">
-![image](https://github.com/user-attachments/assets/778cfbed-64c9-437e-8407-8570958d4bc2)
+![image](https://github.com/user-attachments/assets/59d84809-effb-429f-be84-96f82ac24894)
 </div>
 
 
