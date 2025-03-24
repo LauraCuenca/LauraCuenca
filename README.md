@@ -1,5 +1,6 @@
 
 <p align="center" style="font-size: 84px;"><strong>✨Creciendo como Desarrolladora, Línea por Línea ✨</strong></p>
+##### Intentando ser mas activa, amante del color rosa, los gatos y el anime.
 <div align="center">
   
 ![image](https://github.com/user-attachments/assets/778cfbed-64c9-437e-8407-8570958d4bc2)
@@ -10,7 +11,6 @@
 
 
 #### Estudiante de Lic en Sistemas, APU. UNLP
-##### Intentando ser mas activa, amante del color rosa y los gatos
 ##### Vendo Stickers IT 💻 :
 #### [Drive Stickers](https://drive.google.com/drive/folders/1nzrGfG1_9-k5Dp8QdMbfXcqo7_Uz2GV7)
 
