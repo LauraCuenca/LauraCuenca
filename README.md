@@ -11,10 +11,9 @@
 
 #### Estudiante de Lic en Sistemas, APU. UNLP
 ##### Intentando ser mas activa, amante del color rosa y los gatos
-##### Tengo Stickers IT 
+##### Vendo Stickers IT 💻 :
 #### [Drive Stickers](https://drive.google.com/drive/folders/1nzrGfG1_9-k5Dp8QdMbfXcqo7_Uz2GV7)
 
-#### [Linkedin: Laura Cuenca](https://www.linkedin.com/in/laura-cuenca-/)
 <!--
 **LauraCuenca/LauraCuenca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
