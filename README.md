@@ -3,11 +3,9 @@
 <p align="center" style="font-size: 70px;"><strong> Intentando ser mas activa, amante del color rosa, los gatos y el anime.</p>
 
 <div align="center">
-  
-![image](https://github.com/user-attachments/assets/92a5097d-1588-4d92-86cd-de076764e196)
-
-
+    <img src="https://github.com/user-attachments/assets/92a5097d-1588-4d92-86cd-de076764e196" width="200">
 </div>
+
 
 
 #### Estudiante de Lic en Sistemas, APU. UNLP
